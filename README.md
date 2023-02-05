@@ -1,1 +1,1 @@
-# Udacity-Bertelsmann-Scholarship-2023-Programming-For-Data-Science
+# Udacity-Bertelsmann-Scholarship-Programming-For-Data-Science-2023
